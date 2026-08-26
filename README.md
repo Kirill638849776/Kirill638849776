@@ -3,7 +3,7 @@
 
 <!-- ФОТО ПРОФИЛЯ -->
 <p align="center">
-  <img src="ССЫЛКА_НА_ФОТО" width="180" style="border-radius: 50%; border: 3px solid #ff69b4;" alt="Кирилл">
+  <img src="https://github.com/Kirill638849776/Kirill638849776/blob/main/20240101_200933.JPG?raw=true" width="180" style="border-radius: 50%; border: 3px solid #ff69b4;" alt="Кирилл">
 </p>
 
 <h1 align="center">Привет, я Кирилл! 👋</h1>
@@ -35,7 +35,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚀_Обновление_ИИ-10_сентября_2026-ff69b4?style=for-the-badge&logo=rocket&logoColor=white" alt="Обновление ИИ">
-  <img src="https://img.shields.io/badge/📅_Осталось_дней-15-9cf?style=for-the-badge&logo=clock&logoColor=white" alt="Осталось дней">
   <img src="https://img.shields.io/badge/⚡_Статус-скоро!-success?style=for-the-badge&logo=github&logoColor=white" alt="Статус">
 </p>
 
