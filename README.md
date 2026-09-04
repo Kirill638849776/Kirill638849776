@@ -90,7 +90,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚀_Обновление_ИИ-10_сентября_2026-ff69b4?style=for-the-badge&logo=rocket&logoColor=white" alt="Обновление ИИ">
-  <img src="https://img.shields.io/badge/📅_Осталось_дней-7-9cf?style=for-the-badge&logo=clock&logoColor=white" alt="Осталось дней">
+  <img src="https://img.shields.io/badge/📅_Осталось_дней-6-9cf?style=for-the-badge&logo=clock&logoColor=white" alt="Осталось дней">
   <img src="https://img.shields.io/badge/⚡_Статус-скоро!-success?style=for-the-badge&logo=github&logoColor=white" alt="Статус">
 </p>
 
