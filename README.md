@@ -1,4 +1,3 @@
-
 <!-- ФОТО ПРОФИЛЯ -->
 <p align="center">
   <img src="https://github.com/Kirill638849776/Kirill638849776/blob/main/20240101_200933.JPG?raw=true" width="180" style="border-radius: 50%; border: 3px solid #ff69b4;" alt="Кирилл">
