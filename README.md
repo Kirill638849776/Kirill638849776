@@ -1,5 +1,3 @@
-<!-- БАННЕР ВВЕРХУ -->
-![Баннер](https://img.shields.io/badge/🐱_КИРИЛЛ_DEVELOPER-ff69b4?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
 
 <!-- ФОТО ПРОФИЛЯ -->
 <p align="center">
